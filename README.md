@@ -6,7 +6,7 @@ Provided in datasets.zip, includes 14 datasets mentioned in our paper.
 
 ## Exp-1: Against IE-Hybrid
 
-We implemented IE-Hybird by our best efforts in IE.zip.
+We implemented IE-Hybird by our best efforts in [IE.zip](https://github.com/TristonK/FastDD-Exp/blob/main/Exp-1/IE.zip).
 
 You can follow the instructions [here](https://github.com/TristonK/FastDD-Exp/tree/main/Exp-1) to run IE-Hybrid.
 

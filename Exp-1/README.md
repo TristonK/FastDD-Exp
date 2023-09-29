@@ -2,7 +2,7 @@
 
 ## How To Run IE-Hybrid
 
-1. Download our IE-Hybrid code in IE.zip
+1. Download our IE-Hybrid code in [IE.zip](https://github.com/TristonK/FastDD-Exp/blob/main/Exp-1/IE.zip)
 2. Building the project with maven, you can get `IE.jar`
 3. Run IE.jar as follows:
 ```shell
