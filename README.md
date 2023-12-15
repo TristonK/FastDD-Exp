@@ -8,7 +8,7 @@ Provided in datasets.zip, includes 14 datasets mentioned in our paper.
 
 We have implemented IE-Hybrid with our best efforts, and the code is available in [IE.zip](https://github.com/TristonK/FastDD-Exp/blob/main/Exp-1/IE.zip).
 
-Additionally, we provide implementations for BF and TD-PO, packaged in [BF-TDPO.jar](https://github.com/TristonK/FastDD-Exp/blob/main/Exp-1/BF-TDPO.jar). You can customize the arguments to use different methods.
+Additionally, we provide implementations for BF and TD-PO, packaged in [BF-TDPO.jar](https://github.com/TristonK/FastDD-Exp/blob/main/Exp-1/BF-TDPo.jar). You can customize the arguments to use different methods.
 
 You can follow the instructions [here](https://github.com/TristonK/FastDD-Exp/tree/main/Exp-1) to run IE-Hybrid, BF and TD-PO.
 
