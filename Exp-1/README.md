@@ -12,3 +12,16 @@ java -jar IE.jar <fp> <rowLimit> <thresholds>
 - `fp`: input file path.
 - `threshold`: if you want to use specific thresholds, input filepath; Or we will sample the dataset and get thresholds.
 - `rowLimit`: rows limit, using -1 or empty will use full dataset.
+
+## How To Run TDPO or BF
+
+Run BF-TDPO.jar as follows:
+
+```shell
+java -jar BF-TDPO.jar <fp> <rowLimit> <thresholds> <method>
+```
+
+- `fp`: input file path.
+- `threshold`: if you want to use specific thresholds, input filepath; Or we will sample the dataset and get thresholds.
+- `rowLimit`: rows limit, using -1 or empty will use full dataset.
+- `method`: using 0 to use BF, using 1 to use TD-PO 
